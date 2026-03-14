@@ -1,0 +1,2 @@
+give @s iron_pickaxe[custom_name={"text":"I Cheat and I Don't Care","color":"light_purple","italic":false,"bold":true},enchantments={efficiency:5,unbreaking:3,fire_aspect:2}] 1
+tellraw @s {"text":"<Bizigus> Here is a small gift for you my friend.","color":"white"}
